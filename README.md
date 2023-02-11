@@ -1,5 +1,5 @@
  ### Hi there 👋, I am Sarvagya Ranjan
-
+ 
 
 Third year engineering undergrad.
 
@@ -11,4 +11,3 @@ Third year engineering undergrad.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvagyaranjan&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/sarvagyaranjan)  
