@@ -1,7 +1,10 @@
- ### Hi there 👋, I am Sarvagya Ranjan
+
+ ![header](./github-header-image.png)
  
 
-Third year engineering undergrad.
+
+
+ ### Hi there 👋, I am a third year engineering undergrad wwith a keen interest in full stack development.
 
 
 
