@@ -5,7 +5,7 @@
 
 
  ### Hi there 👋, 
- I am a third year engineering undergrad with a keen interest in full stack development.
+
 
 
 
